@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm ScriptureX24</h1>
 <h3 align="center">Full Stack Developer From Germany</h3>
 
